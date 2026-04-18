@@ -1,5 +1,9 @@
 # SatisHub Package
 
+<center>
+<img src="https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub.jpeg" alt="SatisHub Logo" />
+</center>
+
 SatisHub is a Laravel package for selling private Composer packages with license-based access control.
 
 It includes:
@@ -27,15 +31,15 @@ Host app requirements:
 
 All detailed setup, configuration, provider/webhook examples, API usage, operations, and troubleshooting are in `docs`:
 
-- `docs/01-introduction.md`
-- `docs/02-installation.md`
-- `docs/03-configuration.md`
-- `docs/04-architecture.md`
-- `docs/05-data-model.md`
-- `docs/06-api-reference.md`
-- `docs/07-admin-panel.md`
-- `docs/08-commands.md`
-- `docs/09-testing.md`
-- `docs/10-operations.md`
-- `docs/11-troubleshooting.md`
-- `docs/12-ai-context-files.md`
+- [Introduction](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/01-introduction.md)
+- [Installation](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/02-installation.md)
+- [Configuration](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/03-configuration.md)
+- [Architecture](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/04-architecture.md)
+- [Data Model](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/05-data-model.md)
+- [API Reference](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/06-api-reference.md)
+- [Admin Panel](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/07-admin-panel.md)
+- [Commands](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/08-commands.md)
+- [Testing](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/09-testing.md)
+- [Operations](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/10-operations.md)
+- [Troubleshooting](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/11-troubleshooting.md)
+- [AI Context Files](https://raw.githubusercontent.com/afsakar/satishub-docs/main/docs/12-ai-context-files.md)

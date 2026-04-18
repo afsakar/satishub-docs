@@ -1,5 +1,43 @@
 # 02 Installation
 
+This package requires a valid license to use.
+You can get your license here: [SatisHub](https://afsakar.lemonsqueezy.com/checkout/buy/f2fb0179-c8cd-4be6-bb0f-677381578fe8)
+
+To install you'll need to add the repository to your composer.json file:
+
+```bash
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://satis.afsakar.com"
+        }
+    ]
+}
+```
+
+Once the repository has been added to the composer.json file, you can install SatisHub like any other composer package using the composer require command:
+
+```bash
+composer require afsakar/satishub
+```
+
+You will be prompted to provide your username and password. The username will be the email address and the password will be equal to your license key.
+
+```bash
+Loading composer repositories with package information
+Authentication required (satis.afsakar.com):
+Username: [license-email]
+Password: [license-key]
+```
+Next, add the plugin's views to your custom theme in your theme.css file:
+
+```css
+@source '../../../../vendor/afsakar/satishub/resources/views/**/*.blade.php';
+@source '../../../../vendor/afsakar/satishub/src/**/*.php';
+```
+Afterward, run `npm run build` or `yarn build` to compile assets.
+
 ## Install via Composer
 
 ```bash
