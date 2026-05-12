@@ -16,12 +16,7 @@ It includes:
 
 ## Preview
 
-<center>
-    <video controls autoplay loop muted style="max-width: 100%; height: auto;">
-        <source src="https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</center>
+[![Watch SatisHub preview](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub.jpeg)](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.MP4)
 
 ## Quick Start
 
