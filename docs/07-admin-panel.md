@@ -54,7 +54,7 @@ Under `satis/src/Filament/Resources`:
 
 ### Product Preview Video
 
-[Watch product preview video](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.MP4)
+[Watch product preview video](https://github.com/user-attachments/assets/984715a4-7c03-45ca-b98c-0384d391ab5b)
 
 ## Product/Package Cover Images
 

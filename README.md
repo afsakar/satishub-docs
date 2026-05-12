@@ -1,8 +1,13 @@
 # SatisHub Package
 
-<center>
-<img src="https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub.jpeg" alt="SatisHub Logo" />
-</center>
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/984715a4-7c03-45ca-b98c-0384d391ab5b">
+    <img src="https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub.jpeg" alt="SatisHub Logo" />
+  </a>
+</p>
+<p align="center">
+  Click the image above to watch a preview of SatisHub in action.
+</p>
 
 SatisHub is a Laravel package for selling private Composer packages with license-based access control.
 
@@ -13,9 +18,6 @@ It includes:
 - private Composer repository authentication
 - license activation/validation APIs
 - Filament resources for package operations
-
-## Preview
-[Watch SatisHub preview](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.MP4)
 
 ## Quick Start
 
