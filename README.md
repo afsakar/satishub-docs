@@ -15,8 +15,7 @@ It includes:
 - Filament resources for package operations
 
 ## Preview
-
-[![Watch SatisHub preview](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub.jpeg)](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.MP4)
+[Watch SatisHub preview](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.MP4)
 
 ## Quick Start
 
