@@ -14,6 +14,15 @@ It includes:
 - license activation/validation APIs
 - Filament resources for package operations
 
+## Preview
+
+<center>
+    <video controls autoplay loop muted style="max-width: 100%; height: auto;">
+        <source src="https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</center>
+
 ## Quick Start
 
 ```bash

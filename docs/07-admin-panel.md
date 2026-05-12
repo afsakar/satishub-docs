@@ -29,6 +29,33 @@ Under `satis/src/Filament/Resources`:
 4. Sync external catalog IDs using command if needed.
 5. Monitor Orders and generated Licenses.
 
+## Screen Gallery
+
+### Dashboard
+
+![Admin dashboard](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/dashboard.png)
+
+### Package and Product Management
+
+![Package details](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/package-details.png)
+![Custom frontend packages](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/custom-frontend-packages.png)
+![Custom frontend docs](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/custom-frontend-docs.png)
+
+### Order and License Flow
+
+![Order details](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/order-details.png)
+![License details](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/license-details.png)
+
+### User and Support Management
+
+![User details](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/user-details.png)
+![Support ticket list/detail](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/support-ticket-view.png)
+![Support ticket reply](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/support-ticket-reply.png)
+
+### Product Preview Video
+
+[Watch product preview video](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub-preview.MP4)
+
 ## Product/Package Cover Images
 
 Models support a single-file `cover` media collection.

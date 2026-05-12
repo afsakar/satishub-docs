@@ -1,5 +1,7 @@
 # 01 Introduction
 
+![SatisHub preview](https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub.jpeg)
+
 ## What This Package Solves
 
 SatisHub helps you sell private Composer packages with full license control.
