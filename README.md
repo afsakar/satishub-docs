@@ -3,11 +3,6 @@
 <p align="center" class="filament-hidden">
   <img src="https://raw.githubusercontent.com/afsakar/satishub-docs/main/assets/satishub.jpeg" alt="SatisHub Logo" />
 </p>
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/984715a4-7c03-45ca-b98c-0384d391ab5b">
-    Click here to watch a preview of SatisHub in action.
-  </a>
-</a>
 
 SatisHub is a Laravel package for selling private Composer packages with license-based access control.
 
